@@ -1,6 +1,7 @@
 {
-  "name": "rootstock-quick-start-guide",
+  "name": "bitqualify",
   "version": "1.0.0",
+  "author": "shankar",
   "description": "This repository contains a project for developing, testing, and deploying a smart contract using the Hardhat framework, tailored for the Rootstock network. The project follows a step-by-step approach, each represented by a specific commit in the repository.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +17,7 @@
     "mocha": "^10.2.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts": "^5.1.0",
     "abstract-level": "^1.0.4",
     "adm-zip": "^0.4.16",
     "aes-js": "^3.0.0",
@@ -71,7 +72,7 @@
     "decamelize": "^4.0.0",
     "depd": "^2.0.0",
     "diff": "^5.0.0",
-    "dotenv": "^16.4.2",
+    "dotenv": "^16.4.5",
     "elliptic": "^6.5.4",
     "emoji-regex": "^8.0.0",
     "enquirer": "^2.4.1",
