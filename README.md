@@ -1,5 +1,3 @@
-# MyToken Smart Contract Project
-
 This repository contains a project for developing, testing, and deploying a smart contract using the Hardhat framework, tailored for the Rootstock network. 
 
 ## Repository Branching Strategy
@@ -31,7 +29,7 @@ Before you start, you should have the following [prerequisite](https://dev.roots
 
 Start by cloning this repository to your local machine.
 ```bash
-git clone https://github.com/rsksmart/rootstock-quick-start-guide.git
+git clone https://github.com/bitqualify/contracts.git
 ```
 
 ### Getting Started Guide
